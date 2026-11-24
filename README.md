@@ -1,6 +1,15 @@
 # Counterexamples to the function-field eventual stability conjecture
 
-Akshay Sant (University of Rochester), November 2026.
+Akshay Sant (University of Rochester), November 2026. 
+
+We give counterexamples to the eventual stability conjecture of Jones and Levy
+over function fields of every characteristic: Latt\`es maps over $k(t)$ for
+$\operatorname{char} k \neq 2,3$ (including characteristic $0$), and polynomial
+maps over $\mathbb{F}_p(u)$ for every prime $p$. A manuscript containing full
+proofs, together with a classification of the polynomial counterexamples arising
+from commuting factorisations, is in preparation. Given how quickly AI tools now
+make such computations possible, we are posting the counterexamples here in
+advance. 
 
 ## The conjecture
 
@@ -28,8 +37,6 @@ The $n+1$ factors are irreducible over $\mathbb{F}_2(T)$, of degrees $2^n, 2^n, 
 
 All three come from a factorisation $\varphi = \theta\circ g$ into commuting maps with $\theta(\alpha) = \alpha$, the mechanism behind the Tucker–Zhu counterexample $(z^6,-1)$ over $\mathbb{Q}$ (arXiv:2610.28688).
 
-
-## Acknowledgements
-
-The search for these examples, the computations, and the drafting of proofs and code were carried out with the assistance of an AI system (Claude, Anthropic).
+Acknowledgments: 
+We tried to adapt the commuting-factor mechanism of Tucker and Zhu to function fields, using commuting polynomials in positive characteristic and Lattès maps of the multiplication-by-n maps on an elliptic curve (which succeeds for n = 6). An AI system (Claude, Anthropic) was used as an assistant for computations, for checking candidate examples, and for drafting code
 
