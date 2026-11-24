@@ -32,5 +32,5 @@ The $n+1$ factors are irreducible over $\mathbb{F}_2(T)$, of degrees $2^n, 2^n, 
 All three come from a factorisation $\varphi = \theta\circ g$ into commuting maps with $\theta(\alpha) = \alpha$, the mechanism behind the Tucker–Zhu counterexample $(z^6,-1)$ over $\mathbb{Q}$ (arXiv:2610.28688).
 
 Acknowledgments: 
-We tried to adapt the commuting-factor mechanism of Tucker and Zhu to function fields, using commuting polynomials in positive characteristic and Lattès maps of the multiplication-by-n maps on an elliptic curve (which succeeds for n = 6). An AI system (Claude, Anthropic) was used as an assistant for computations, for checking candidate examples, and for drafting code
+We tried to adapt the commuting-factor mechanism of Tucker and Zhu to function fields, using commuting polynomials in positive characteristic and Lattès maps of the multiplication-by-n maps on an elliptic curve (which succeeds for n = 6). An AI system (Claude, Anthropic) was used as an assistant for or drafting code to carry out computations to search for candidate examples and then both for verification and proof checking that these examples indeed disprove the conjecture in the case of function fields.
 
