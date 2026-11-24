@@ -3,13 +3,7 @@
 Akshay Sant (University of Rochester), November 2026. 
 
 We give counterexamples to the eventual stability conjecture of Jones and Levy
-over function fields of every characteristic: Latt\`es maps over $k(t)$ for
-$\operatorname{char} k \neq 2,3$ (including characteristic $0$), and polynomial
-maps over $\mathbb{F}_p(u)$ for every prime $p$. A manuscript containing full
-proofs, together with a classification of the polynomial counterexamples arising
-from commuting factorisations, is in preparation. Given how quickly AI tools now
-make such computations possible, we are posting the counterexamples here in
-advance. 
+over function fields of every characteristic: Latt\`es maps over $k(t)$ for characteristic other than 2 and 3 (including characteristic $0$), and polynomial maps over $\mathbb{F}_p(u)$ for every prime $p$. A manuscript containing fullproofs, together with a classification of the polynomial counterexamples arising from commuting factorisations, is in preparation. Given how quickly AI tools now make such computations possible, we are posting the counterexamples here in advance. 
 
 ## The conjecture
 
