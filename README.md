@@ -24,7 +24,7 @@ The $n+1$ factors are irreducible over $\mathbb{F}_2(T)$, of degrees $2^n, 2^n, 
 
 **2. Over $\mathbb{F}_p(u)$, every prime $p$ (polynomial).** Let $g = z^p - u^{p-1}z$, $h = g + z$, $\varphi = h \circ g = g\circ h$, $\alpha = u$. Then $u \mapsto 0 \mapsto 0$, the pair $(\varphi,u)$ is not isotrivial (the multiplier at $0$ is $-u^{p-1}(1-u^{p-1})$), and $r_n(\varphi,u) \ge n+1$. For $p = 2$ this is Example 1.
 
-**3. Over $k(t)$, $\operatorname{char} k \ne 2,3$, including $\mathbb{Q}(t)$ and $\mathbb{C}(t)$ (Lattès map).** Let $E : y^2 = x(x-1)(x-t)$ and let $\varphi$ be the degree-36 map with $x\circ[6] = \varphi\circ x$, and $\alpha = 0$. Then $0$ is not periodic ($0 \mapsto \infty \mapsto \infty$), the pair is not isotrivial (the four critical values $\infty, 0, 1, t$ have non-constant cross-ratio $t$), and $F_n$ has at least $n+1$ distinct irreducible factors over $k(t)$.
+**3. Over $k(t)$, where k is a field of characteristic not equal 2 or 3, including $\mathbb{Q}(t)$ and $\mathbb{C}(t)$ (Lattès map).** Let $E : y^2 = x(x-1)(x-t)$ and let $\varphi$ be the degree-36 map with $x\circ[6] = \varphi\circ x$, and $\alpha = 0$. Then $0$ is not periodic ($0 \mapsto \infty \mapsto \infty$), the pair is not isotrivial (the four critical values $\infty, 0, 1, t$ have non-constant cross-ratio $t$), and $F_n$ has at least $n+1$ distinct irreducible factors over $k(t)$.
 
 All three come from a factorisation $\varphi = \theta\circ g$ into commuting maps with $\theta(\alpha) = \alpha$, the mechanism behind the Tucker–Zhu counterexample $(z^6,-1)$ over $\mathbb{Q}$ (arXiv:2610.28688).
 
